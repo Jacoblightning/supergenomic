@@ -1,3 +1,5 @@
+# This repo has moved [here](https://github.com/Jacoblightning/WebGameHacking/tree/main/Scripts/SuperGenomic)
+
 # supergenomic
 Adds another level to https://teacheng.illinois.edu/SequenceAlignment/
 
